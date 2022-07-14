@@ -1,7 +1,3 @@
-# kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-
-
 # Kodluyoruz ILk Repo
 
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
@@ -21,7 +17,7 @@ cd kodluyoruzilkrepo
 code .
 ```
 
-![github](figures/github.png)
+![github](https://resimyukle.io/r/qnD14m9Kha)
 
 ## Contributing
 Büyük değişiklikler için öncelikle matrix çağına geçmemiz gerekiyor, yani makinelerin insanların elinden çalışma hayatını aldığı bir döneme geçmeliyiz. 
