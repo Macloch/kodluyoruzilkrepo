@@ -17,7 +17,7 @@ cd kodluyoruzilkrepo
 code .
 ```
 
-![resimyükle.io](https://resimyukle.io/r/qnD14m9Kha)
+![Github](https://picsum.photos/200/300)
 
 ## Contributing
 Büyük değişiklikler için öncelikle matrix çağına geçmemiz gerekiyor, yani makinelerin insanların elinden çalışma hayatını aldığı bir döneme geçmeliyiz. 
