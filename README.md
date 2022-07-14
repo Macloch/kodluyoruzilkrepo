@@ -24,7 +24,7 @@ code .
 ![github](figures/github.png)
 
 ## Contributing
-Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+Büyük değişiklikler için öncelikle matrix çağına geçmemiz gerekiyor, yani makinelerin insanların elinden çalışma hayatını aldığı bir döneme geçmeliyiz. 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
